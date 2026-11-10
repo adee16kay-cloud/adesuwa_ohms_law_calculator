@@ -40,9 +40,12 @@ Follow the instructions displayed on the screen.
 Select the calculation you want to perform.
 Enter the required electrical values.
 View your answer and calculation history.
-Special Feature
+
+Special Feature:
 Unlike a basic Ohm's Law calculator, this project includes automatic unit conversion and calculation history, making electrical calculations easier to understand and review.
+
 Author
 Adesuwa Kanyikene ND1 Mechatronics Engineering Engineering YabaTech.
+
 Project Purpose
 This project was developed for learning Python programming and understanding the practical application of Ohm's Law and electrical power formulas.
