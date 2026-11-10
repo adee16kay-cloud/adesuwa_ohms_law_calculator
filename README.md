@@ -1,38 +1,33 @@
-⚡ Ohm's Law and Electrical Power Calculator
+Ohm's Law and Power Calculator ⚡
 
-📌 Project Overview
+Project Description
 
-The Ohm's Law and Electrical Power Calculator is a Python-based project developed to simplify basic electrical calculations. It allows users to calculate voltage, current, resistance, and electrical power using standard electrical formulas.
+The Ohm's Law and Power Calculator is a Python-based program designed to simplify electrical calculations by allowing users to calculate voltage, current, resistance, and electrical power using standard electrical formulas.
 
-The program provides an interactive interface where users can select the type of calculation they want to perform, enter the required values, and receive accurate results with the appropriate units.
+The program provides an interactive approach to solving basic electrical problems. Users can select their preferred calculation, enter the required values, and receive accurate results with the appropriate units.
 
-Beyond basic calculations, the project introduces useful features such as automatic unit conversion, calculation history, input validation, and error handling.
+Features
 
-🚀 Key Features
+- Calculate Voltage (V).
+- Calculate Current (I).
+- Calculate Resistance (R).
+- Calculate Electrical Power (P).
+- Automatic Unit Conversion (V to mV, A to mA, and Ω to kΩ).
+- Calculation History to review previous results.
+- Input Validation to prevent invalid entries.
+- Error Handling to prevent division-by-zero errors.
+- Calculation Summary to display completed calculations.
+- Continuous Calculation, allowing users to perform multiple operations until they choose to quit.
 
-- Voltage Calculation: Calculate voltage using Ohm's Law.
-- Current Calculation: Determine the current flowing through a circuit.
-- Resistance Calculation: Calculate resistance from known voltage and current values.
-- Power Calculation: Calculate electrical power using different power formulas.
-- Automatic Unit Conversion: Convert values between V and mV, A and mA, and Ω and kΩ.
-- Calculation History: Keep track of previous calculations for easy reference.
-- Input Validation: Prevent invalid entries and ensure appropriate numerical inputs.
-- Error Handling: Handle division-by-zero errors.
-- Calculation Summary: Display a summary of completed calculations.
-- Continuous Operation: Allow users to perform multiple calculations until they choose to exit.
+Electrical Formulas
 
-🧮 Electrical Formulas Used
+Ohm's Law
 
-The project implements the following fundamental electrical formulas:
+- Voltage: V = I × R
+- Current: I = V / R
+- Resistance: R = V / I
 
-1. Ohm's Law
-
-Quantity| Formula
-Voltage| V = I × R
-Current| I = V / R
-Resistance| R = V / I
-
-2. Electrical Power
+Power Formulas
 
 - P = V × I
 - P = I² × R
@@ -45,43 +40,41 @@ Where:
 - R = Resistance (Ohms)
 - P = Power (Watts)
 
-🛠️ Technologies Used
+Programming Language
 
-- Programming Language: Python 3
-- Development Focus: Basic programming concepts, mathematical operations, conditional statements, loops, functions, input validation, and error handling.
+Python 3
 
-💻 How to Run the Program
+How to Run the Program
 
-1. Install Python 3 on your device.
+1. Install Python 3 on your computer or mobile device.
 2. Download or clone this repository.
 3. Open the project folder.
-4. Run the Python file using your terminal:
+4. Run the Python program:
 
 python "Ohm's Law and Power Calculator.py"
 
-5. Follow the instructions displayed in the program.
-6. Select your preferred calculation.
+5. Follow the instructions displayed on the screen.
+6. Select the calculation you want to perform.
 7. Enter the required electrical values.
 8. View your results and calculation history.
 
-🌟 What Makes This Project Useful?
+Special Feature (The Twist)
 
-This project goes beyond performing ordinary electrical calculations. Its automatic unit conversion, calculation history, input validation, and summary features make it a more interactive and practical learning tool.
+Unlike a basic Ohm's Law calculator that only performs electrical calculations, this project introduces automatic unit conversion and calculation history to improve the user experience.
 
-It also demonstrates how Python programming can be applied to solve everyday engineering-related problems.
+The program does not only provide calculated results; it also allows users to review previous calculations, convert electrical values into more convenient units, and view a summary of their operations.
 
-🎯 Project Purpose
+These additional features make the calculator more interactive, practical, and useful for understanding basic electrical calculations.
 
-The purpose of this project is to strengthen Python programming skills while demonstrating the practical application of basic electrical principles.
+Project Purpose
 
-It connects programming with electrical engineering concepts and provides an opportunity to understand how simple software applications can make technical calculations easier.
+This project was developed to improve practical Python programming skills and demonstrate how programming can be applied to solve basic electrical engineering problems.
 
-👩‍💻 Author
+It combines fundamental programming concepts with the practical application of Ohm's Law and electrical power formulas, providing a simple tool for performing and understanding electrical calculations.
+
+
+Author
 
 Adesuwa Kanyikene
 ND1 Mechatronics Engineering
-Yaba College of Technology (YABATECH)
-
----
-
-Built with Python 3 and a practical understanding of electrical engineering fundamentals. ⚡
+Engineering, Yaba College of Technology (YABATECH).
